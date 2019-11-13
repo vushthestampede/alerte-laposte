@@ -1,6 +1,7 @@
 # Laurent, programme pour le service en interne, Sept 2019
 
 def menu():
+    # TODO Bravo
     consigne = """
 *****************************************************************
                 Bonjour.
